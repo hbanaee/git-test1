@@ -2,4 +2,5 @@ my name is hamido
 and this is the third line
 we all trust in god
 god bless us
+this line was added in vs code
 
