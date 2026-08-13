@@ -4,3 +4,5 @@ we all trust in god
 god bless us
 this line was added in vs code
 this is the sixth line.
+this is the seventh line.
+this is 8th line added in master
