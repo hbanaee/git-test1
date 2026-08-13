@@ -3,4 +3,4 @@ and this is the third line
 we all trust in god
 god bless us
 this line was added in vs code
-
+this 6th line added in feature-1
